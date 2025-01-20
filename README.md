@@ -1,2 +1,3 @@
-# CodingTest
-This is a auto push repository for Baekjoon Online Judge created with [NKLCBHub](https://github.com/Donghyeon0915/NKLCB_Hub).
+# 김영주 코딩테스트 저장소
+매일 매일 1개씩 풀고 있습니다.
+나중에 한번 알고리즘 별로 정리할 예정
